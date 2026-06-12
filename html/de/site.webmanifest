@@ -1,0 +1,31 @@
+{
+  "name": "NoSQL Geeks",
+  "short_name": "NoSQL Geeks",
+  "description": "IT-Beratung, Softwareentwicklung und Schulungen für NoSQL-Datenbanken und moderne Datenmanagementsysteme",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FF6600",
+  "icons": [
+    {
+      "src": "assets/ico/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/ico/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/ico/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/ico/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
