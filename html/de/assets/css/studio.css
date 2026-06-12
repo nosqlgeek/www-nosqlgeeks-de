@@ -1,0 +1,30 @@
+/* Studio theme - Black and Green color scheme */
+a {
+  color: #26af03 !important;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+/* Navbar styling for dark theme */
+.navbar-dark .navbar-brand {
+  color: #26af03 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #26af03 !important;
+}
+
+/* Navbar hover effect - turn green to black */
+.navbar-light .navbar-nav .nav-link:hover {
+  color: black !important;
+}
+
+/* Footer links */
+.footer a {
+  color: #26af03 !important;
+}
